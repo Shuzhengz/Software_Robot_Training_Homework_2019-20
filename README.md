@@ -8,4 +8,4 @@ You will HAVE to create pull requests on **EVERY ASSIGNMENT** (but commiting eve
 
 You will need at least one review from a **classmate** before you can merge and submit your homework.
 
-If you don't know how to do something, **ASK**!
+If you don't know how to do something, **ASK**! We don't expect you to know how all this works when you finish general programming training.
